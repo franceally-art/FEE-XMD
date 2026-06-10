@@ -42,8 +42,8 @@ async function initializeDatabase() {
         `);
 
         const defaultSettings = {
-            prefix: '.',
-            packname: '𝙁𝙀𝙀-𝙓𝙈𝘿',
+            prefix: '*',
+            packname: 'france_Bot',
             mode: 'public',
             presence: 'online',
             autoview: 'true',
