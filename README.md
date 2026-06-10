@@ -1,7 +1,7 @@
 # FRANCE MD WhatsApp Bot 🤖
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Fred1e/Fee-Xmd/main/fredi.jpg" alt="FEE XMD Logo" width="220">
+  <img src="https://i.postimg.cc/HW09zyBd/file-00000000170c71f58f6bde7a231a4773.png" alt="FEE XMD Logo" width="220">
   <br>
   <h1>Advanced WhatsApp Bot with 200+ Features • Free & Open Source</h1>
 
@@ -123,7 +123,7 @@ npm install
 PORT=3000
 SESSION_ID=your_session_id
 PREFIX=!
-MODS=255752593977
+MODS=260767784831
 MONGODB_URI=your_mongodb_uri
 CRON=0 */2 * * *
 WELCOME=true
@@ -195,11 +195,11 @@ Notes:
 
 ## 👨‍💻 Developer Information
 
-- Fredi AI Tech — From Arusha, Tanzania 🇹🇿
+-  『Fᵣₐₙcₑ  © TECH 』 AI Tech — From , Tanzania 🇹🇿
 - Contact & Profiles:
-  - WhatsApp: https://wa.me/256752593977 (Direct support)
-  - Email: frediezra360@gmail.com
-  - GitHub: https://github.com/Fred1e (Main)
+  - WhatsApp: https://wa.me/260767784831 (Direct support)
+  - Email: franceally36@gmail.com
+  - GitHub: https://github.com/franceally-art (Main)
   - GitHub: https://github.com/mr-X-force (Secondary)
   - GitHub: https://github.com/FezChat (FezChat projects)
 
